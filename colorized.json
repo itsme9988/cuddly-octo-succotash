@@ -1,5 +1,0 @@
-{
-  "text": "🎨 COLORIZED",
-  "backgroundColor": "#6a3dc7",
-  "condition": "{stream.filename::lower::includes('colorized')}"
-}
