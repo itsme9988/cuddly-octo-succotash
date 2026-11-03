@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "collection-ac6fc142",
+    "title": "Studios",
+    "folders": [
+      {
+        "id": "folder-ddaca1da",
+        "title": "Marvel Studios",
+        "sources": [
+          {
+            "title": "Popular Marvel Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "420",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Marvel Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "420",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Marvel Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "420",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Marvel Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "420",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Marvel Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "420",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Marvel Series",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "420",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/marvel.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/f579cc7994cccd2689bbfda34d78106d/81fa4def06d84b4d-44/s1280x1920/c6c2bbb22f722bb05efeead401ffc3d448e24693.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/56eb3aaf3a634afd4b1ffcebf222bf31/4caf0eca4d031d24-23/s1280x1920/bf4da6fe7e41d26223cc810165203fbd8eb3fefa.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/marvel.jpg"
+      },
+      {
+        "id": "folder-75545caf",
+        "title": "Lucasfilm",
+        "sources": [
+          {
+            "title": "Popular Lucasfilm Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Lucasfilm Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Lucasfilm Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Lucasfilm Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.imgur.com/Od2heHv.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/0186edb30ef182353162744ae5401a58/c0c55428d7913426-7a/s640x960/486e37665f19ed737e3feb9deb94076f43d4626d.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/ba925c84c0cf1a4cc8c74b29d16bfb63/f3399a6bd5e90049-5c/s1280x1920/b89e74a20b7a6d2fa1fc465e25e7262adeeb0446.pnj",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/09fdf6265968816f1446e85f0058485b/eaff7ffbcbbf0530-5e/s1280x1920/9146a1da1cca59ba2825c0b8b7ae977704160ca9.jpg"
+      },
+      {
+        "id": "folder-afe15b7c",
+        "title": "Pixar",
+        "sources": [
+          {
+            "title": "Popular Pixar Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "3",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Pixar Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "3",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Pixar Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "3",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Pixar Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "3",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.pinimg.com/originals/c4/40/6f/c4406f2d5edd76cb794d6334c526e49c.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/b5a738f22575ced4ebd4e1a96ce5bca7/6996fa0f99614fe3-09/s1280x1920/d901772b21c87323bdabcb62f0e81d246bf7c95e.pnj",
+        "coverImageUrl": "https://img-new.cgtrader.com/items/3821465/4f833de009/luxo-jr-disney-pixar-lamp-3d-model-4f833de009.webp",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/pixar.jpg"
+      },
+      {
+        "id": "folder-3fad4fa3",
+        "title": "Warner Bros.",
+        "sources": [
+          {
+            "title": "Popular Warner Bros. Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "174",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Warner Bros. Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1957",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Warner Bros. Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "174",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Warner Bros. Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "1957",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Warner Bros. Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "174",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Warner Bros. Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1957",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.pinimg.com/originals/e5/43/af/e543af1b6173497a8273dcb2aa64c5c0.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/a8ef2c4671175195e437ed3e6c329913/dc3197f784909879-98/s400x600/d9c3ff2672ae687f3fd3f3053a992178b05bb2e2.pnj",
+        "coverImageUrl": "https://heroichollywood.com/wp-content/uploads/2019/09/WarnerMedia_Warner_Bros.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/9f77ade5765ad1ef3c965ccd5535edab/85e951d5cd333af2-1e/s1280x1920/18885f7f16f80f9e5392f2cda4ef1f5ba7744295.pnj"
+      },
+      {
+        "id": "folder-cf97723b",
+        "title": "Blumhouse",
+        "sources": [
+          {
+            "title": "Popular Blumhouse Television Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "68884",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Blumhouse Television Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "68884",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Blumhouse Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "3172",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Blumhouse Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "3172",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Blumhouse Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "3172",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://iili.io/BNYw4iF.gif",
+        "titleLogoUrl": "https://i.ibb.co/s9QM4QT0/Chat-GPT-Image-May-1-2026-03-40-05-PM.png",
+        "coverImageUrl": "https://cdn.prod.website-files.com/6602f5c4246c275acb54c298/66d73c5f7d1641972695fd68_66d614015f76828306b25906_blumhouse_alt.webp",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/8d1f2d98803f08cca99fad0518f7d8f1/3892baba9f78c05b-6d/s1280x1920/262926965bf8c91fd2bd5ae8a469ab17976bc7ce.jpg"
+      },
+      {
+        "id": "folder-b5791157",
+        "title": "A24",
+        "sources": [
+          {
+            "title": "Popular A24 Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "41077",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular A24 Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "41077",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated A24 Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "41077",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated A24 Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "41077",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent A24 Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "41077",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent A24 Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "41077",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e94e7d1f-3328-48d3-b11a-45e835c32fcb/dhvgkbm-ea7c097b-28b8-421d-9517-808ca4874cf0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lOTRlN2QxZi0zMzI4LTQ4ZDMtYjExYS00NWU4MzVjMzJmY2IvZGh2Z2tibS1lYTdjMDk3Yi0yOGI4LTQyMWQtOTUxNy04MDhjYTQ4NzRjZjAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.clS1Az05Pd-Bwh-3uZzyIZFNcJC3Q6dlwSwVI2riTaU",
+        "titleLogoUrl": "https://64.media.tumblr.com/a7bcd4e5af65b9338e6f7dd3773f01da/fca92f7818ae3525-8b/s1280x1920/dd7d59a56e6050e01b2333bace72c8b08bec3ff1.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/09454da796c8363aa6d7a81b705c71e8/29e8b85f58ab4372-b1/s2048x3072/ca198996d462096c8cc4a6e8114980efdfad7fb1.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/98687d2fb01f4aa09d682ef364ea4661/70712c527cf2bbb3-c1/s1280x1920/c7ea3c46a589c9c8a1d30efc6f8e1dd7321bb505.pnj"
+      },
+      {
+        "id": "folder-94d813cc",
+        "title": "Sony Pictures",
+        "sources": [
+          {
+            "title": "Popular Sony Television Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "11073",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Sony Television Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "11073",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Sony Television Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 20,
+              "withCompanies": "11073",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Sony Television Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "11073",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Sony Television Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "11073",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Sony Television Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "11073",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Sony Pictures Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "34",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Sony Pictures Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "34",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Sony Pictures Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "34",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://gizmodo.com/app/uploads/2014/12/ohj895jprbbbd0nsekg7.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/ffc18df4e5e301c8c487139279d2f185/84a84eec75487d4d-af/s1280x1920/fd79bcbb2a5901f760c9ba7e58ffdae8e29f053d.pnj",
+        "coverImageUrl": "https://1000logos.net/wp-content/uploads/2020/09/Sony-Pictures-logo.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/460c96e85b5cebf316060c5bbe8e2964/71e179fe198bab57-33/s1280x1920/56a1cde2a3ea0f9915ff58f26a04e9d555ed2691.jpg"
+      },
+      {
+        "id": "folder-6a4c1376",
+        "title": "Universal Studios",
+        "sources": [
+          {
+            "title": "Popular Universal Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "33",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Universal Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "26727",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Universal Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "33",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Universal Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withCompanies": "26727"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Universal Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "33",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Universal Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "26727",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/NjgLsZ68/Universal.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/98271268d50db16a29fa9d3ea314f94c/149ec52f779b59e8-a2/s1280x1920/3f33156fc3a5be0e4e4638111d4bc5c39389dff5.pnj",
+        "coverImageUrl": "https://preview.redd.it/universal-logo-1990-1997-v0-otxxaoim5r0e1.jpeg?width=640&crop=smart&auto=webp&s=bb2267a5e1f3478a2fc3874e67213fc69ec05814",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/2af39db534e59e80bb5ee44ab9dd8506/07545b4838dfa5c7-c5/s1280x1920/e7ad1101d7a59a09facda18efd592cc65b76507b.pnj"
+      },
+      {
+        "id": "folder-7e4037c2",
+        "title": "Studio Ghibli",
+        "sources": [
+          {
+            "title": "Popular Studio Ghibli Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "10342"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Studio Ghibli Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 50,
+              "withCompanies": "10342"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Studio Ghibli Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "10342"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/ghibli.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/e095534fb808c67322c0665d19de4745/4fa235f63e010520-b1/s1280x1920/18ab3acdc791a3f02915f86587ad5d93f6030a71.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/74f01d00ae4cc67ade77fc33e44845ba/10bfe18224c34e43-1b/s1280x1920/ce6e7c9e541a8c9ffe358c912f073dae89e6f306.pnj",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/ghibli.jpg"
+      },
+      {
+        "id": "folder-01a5633b",
+        "title": "DC",
+        "sources": [
+          {
+            "title": "Popular DC Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "9993 429 184898",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular DC Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "9993 429 184898",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated DC Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "9993 429 184898",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated DC Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "9993 429 184898",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent DC Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "9993 429 184898",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent DC Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "9993 429 184898",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/50GVmBDm/DCStudios-Optimized.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/f945766cf5379ee85938882179e3a339/3373a90e11161304-e3/s500x750/692d652bfed5fa5cab7276a36ec14fa8777c644b.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/ab211c1ae5aae885356388680ffb7a94/b9e453553b0571b4-ec/s1280x1920/259a2ee7608e2900a62e089fefafb9db829c37f9.pnj",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/dc.jpg"
+      },
+      {
+        "id": "folder-f700589d",
+        "title": "Full Moon Entertainment",
+        "sources": [
+          {
+            "title": "Popular Full moon Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "4867 15352",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Full moon Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 25,
+              "withCompanies": "4867 15352",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Full moon Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "4867 15352",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/1374dc12cb2b4d4e496ff3f86e7a1fcd/42b8669458cf55de-e5/s500x750/1bc005a8e9ee865470e014a20126f6220225f5cc.gifv",
+        "titleLogoUrl": "https://64.media.tumblr.com/1cf5a75db1be82f89afb2446deef4e7b/5d084b4362991bf3-b0/s500x750/624b3f1ee661cf48ae22b886c3e3bc93f86b031a.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/9f9ec38abd1b8da358346a6399ba0891/0faa619f09c8c429-54/s1280x1920/f6667994f1a8835dc0479477ef22863e838ee375.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/379b845e259cdb26a1ee00c4f473f8ef/5644dcca1b2c2024-90/s1280x1920/7f529ee809a288d309859c5a48b053a7b822ecc2.jpg"
+      },
+      {
+        "id": "folder-b9add763",
+        "title": "Lionsgate",
+        "sources": [
+          {
+            "title": "Popular Lionsgate Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1632 28523",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Lionsgate Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1632 28523",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Lionsgate Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "1632 28523",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Lionsgate Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "1632 28523",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Lionsgate Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1632 28523",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Lionsgate Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1632 28523",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/17e9221d60b5ed7347836fae9963285e/f4b737d056098ed2-28/s500x750/af7e027a1b27db3a1bcc64a9971536810c7a2eef.gifv",
+        "titleLogoUrl": "https://64.media.tumblr.com/0aa8e34c84d609c6a883eddff72acc33/722d4901dfa7909f-f2/s1280x1920/3bbad4809d7b535a6024be81bbcd7d85f692ebc6.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/45057b3f3727761634de8a4043d68f70/6f8e76de9ae96dfe-39/s1280x1920/94f38aa1d1bbb3083e319ad9b13f385eb4bbe2e1.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/a540e9171302e27364fc0fd16a710c06/c8af00d3925c6cf4-33/s1280x1920/43944bd8308133c6792281bfd4176926db9527b2.jpg"
+      },
+      {
+        "id": "folder-769a40fd",
+        "title": "20th Century Fox",
+        "sources": [
+          {
+            "title": "Popular 20th Century Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "25",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular 20th Century Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1556",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated 20th Century Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "25",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated 20th Century Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "1556",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent 20th Century Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "25",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent 20th Century Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1556",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent 20th Century Studios Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "127928",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular 20th Century Studios Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "127928",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://c.tenor.com/4B2j48N2jMUAAAAd/20th-century-fox-logo.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/2bb63da8f9e1b78b40f329185deb70e1/cf7549ddb486de2a-28/s2048x3072/09d41aba02006204958ce665739c85e8a3f41007.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/37f11ee4a6e0b85ed5a38b5f3a2decae/1af8f677fa7c6e8e-92/s2048x3072/d8d4655d539ae100d84da4b2ad3cfa9e42365b45.webp",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/5f84c20a251f0532433425eaff6bc22d/817e0b210d66423c-d0/s1280x1920/e50425e2599891335f97c920e3c332ac91831a27.pnj"
+      },
+      {
+        "id": "folder-daf73897",
+        "title": "Illumination",
+        "sources": [
+          {
+            "title": "Popular Illumination Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "6704",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Illumination Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "6704",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Illumination Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "6704",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://imglink.cc/cdn/6hbWd7XBNR.gif",
+        "titleLogoUrl": "https://64.media.tumblr.com/b03ca2122a97472d5222bb8c925a3c07/f6fb11856612379c-01/s1280x1920/0a615453f7d8b0025ce29ab17a074293b35a726a.pnj",
+        "coverImageUrl": "https://imglink.cc/cdn/RKfxbt24Qx.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://imglink.cc/cdn/3P-Ut_7YAQ.jpg"
+      },
+      {
+        "id": "folder-8e94855b",
+        "title": "National Geographic",
+        "sources": [
+          {
+            "title": "Popular Nat Geo. Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withNetworks": "43",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Nat Geo. Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withNetworks": "43",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Nat Geo. Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withNetworks": "43",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://cdn.dribbble.com/userupload/28768734/file/original-ef8fb082e33363bacbbf73da8c08a2f2.gif",
+        "titleLogoUrl": "https://media.themoviedb.org/t/p/h100_filter(negate,000,666)/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+        "coverImageUrl": "https://64.media.tumblr.com/2524d963d7546ec07d9362aee8a867a4/aa613da88770dcf7-9b/s1280x1920/12bb0f028d7f9d4ff30554a6738146b076b0602a.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-e222ad36",
+        "title": "New Line Cinema",
+        "sources": [
+          {
+            "title": "Popular New Line Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "12",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular New Line Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "12",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated New Line Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "12",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent New Line Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "12",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/7d98d3825b2c40f9a7b9a5701a21707a/da4c8ba089353c74-e8/s500x750/2396c6733f07e0fdf424d1796fe59d95f3c5f651.gifv",
+        "titleLogoUrl": "https://64.media.tumblr.com/809758a5dde2e1637adf6fecec2b8106/77d33e9a87f05f8a-60/s640x960/c1dce46e87b4b6c07cde76dabcead92e60369ff1.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/78d765807c2d9cd989202bbaf41b756a/cf08d4c327f384a8-b1/s1280x1920/8ff6cc0a48a50f2ec548aa3a272ec46621f8d6ba.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/d79f2e1184ed2d3a2ac5150a99115516/451690b7ae608756-59/s1280x1920/2af3794d7dce208d8f574dfb86d916c6d09dac64.jpg"
+      },
+      {
+        "id": "folder-907d10c5",
+        "title": "Dreamworks",
+        "sources": [
+          {
+            "title": "Popular Dreamworks Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "7 521",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Dreamworks Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withCompanies": "7 521"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Dreamworks Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "521 7",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Dreamworks Series",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "521 7",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Dreamworks Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "521 7",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Dreamworks Series",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "521 7",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/3ab69d3cb385a72200616f9e13edb093/b789b121351ea437-b0/s500x750/c061d6844f8fd3270c1580852b09fef8c3f7b203.gifv",
+        "titleLogoUrl": "https://64.media.tumblr.com/dfb258bca6bbf0d1fa76f27d736c828d/94405fc9686f598a-dd/s500x750/dc49003a08117efb6cac54ea7ea5dc9e9742f608.pnj",
+        "coverImageUrl": "https://i.imgur.com/HK9oP0V.png",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/4dbb808f19f2c0f4c8f9a130c3dea287/c4855cdd3f359a69-dd/s2048x3072/da670dcbc815b95da1d0390907f84fabb0ead01a.pnj"
+      },
+      {
+        "id": "folder-2c3cca29",
+        "title": "MIRAMAX",
+        "sources": [
+          {
+            "title": "Popular miramax Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "14",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular miramax Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "14",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Miramax Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100,
+              "withCompanies": "14",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Miramax Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "14",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/4b775785d6822a8e51426ec7dcb914a8/7054e0a3a7664275-04/s640x960/0ff3f3af41d4f2af77636ff39eb720ea4290f5b6.gifv",
+        "titleLogoUrl": "https://64.media.tumblr.com/323f4b8d93927aa8a080afbda367521e/18c16b37ce1807ec-56/s1280x1920/7ce39ca8615d105bf1337a6a1644ffa2fb8666d4.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/ff3f843b4ea88523f055f8fcabf2cd78/e5d4861b10a476bb-fb/s2048x3072/f78b1bc2a1640cffcd8e350c131e4c61ae26e6d0.webp",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/306efa0e448264da816c315755b201f9/e88c496301870d69-26/s1280x1920/f382d01b3dfca655d9d8ca15985283abb07bc256.jpg"
+      },
+      {
+        "id": "folder-c088a264",
+        "title": "The Asylum",
+        "sources": [
+          {
+            "title": "Popular Asylum Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1311",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular Asylum Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1311",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Top Rated Asulym Movies",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 20,
+              "withCompanies": "1311",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent Asylum Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 1,
+              "withCompanies": "1311",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/136a958a3f7ec4330182c88415411d9c/d4306b401dfa477a-7d/s500x750/9c2e2dc80a5cddc6c67bf8bdd642de98d2456fc7.gifv",
+        "titleLogoUrl": "https://64.media.tumblr.com/9c25dda2747dce2b47b5cb9973bd42d9/3fa91af2748d18ea-3f/s1280x1920/c909b1e698098f824790b897a343397a36f7b65f.pnj",
+        "coverImageUrl": "https://64.media.tumblr.com/4bb054d76568f1daf1fc2f8e8b73dade/73b54e021beb1278-42/s1280x1920/369c68d7164341e5301b8bbde420129faa68b016.webp",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://64.media.tumblr.com/b19321798a693c84e93015b10c2182f6/3edb1e1b21005470-59/s1280x1920/959b96631d1722f55ef75e138d6d00ddc2737fb4.jpg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
